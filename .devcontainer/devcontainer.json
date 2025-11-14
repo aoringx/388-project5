@@ -1,0 +1,8 @@
+{
+    "name": "EECS 388 Project 5",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "workspace",
+    "workspaceFolder": "/workspaces/project5",
+    "remoteUser": "eecs388",
+    "extensions": ["ms-azuretools.vscode-docker"]
+}
