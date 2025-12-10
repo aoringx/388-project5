@@ -1,0 +1,82 @@
+﻿Conversation
+Sheperd
+All, welcome, this will be our hub of operations. 
+
+Prankster
+So who we taking down first?
+
+Sabu
+My vote is the FBI.
+
+Sentinel
+Politicians? Sick of their lying…
+
+0V3RR1D3
+Global corporations? Their control is ridiculous.
+
+Sheperd
+In due time. In due time.
+
+Sheperd
+All, welcome Artemis, he’s a network expert and will be useful in future operations. I’ve shared the necessary insurance file and have received his keys.
+
+Artemis
+Hey! Happy to join. I’m an assistant to the regional manager at a network security company and know a lot about networks
+
+Sentinel
+Welcome!
+
+0V3RR1D3
+suh dude
+
+Prankster
+Any update on who we’re going after?
+
+Sabu
+Let’s go after Sony…
+
+Sheperd
+I have a target in mind, going to do some updating to our end, and then we’ll talk about targets.
+
+Artemis
+POIJWEF:OJISF:OIJSDF*@#$* I GOT FIRED. THAT UNGRATEFUL COMPANY FIRED ME. 
+AFTER ALL THE WORK I’VE DONE FOR THEM AND THEY LET ME GO. GAH.
+
+Sentinel
+WHATT?!?! They give reason?
+
+Artemis
+Downsizing! I was the assistant regional manager and they fired me!!
+
+Prankster
+Weren’t you the assistant to the regional manager?
+
+Artemis
+Same thing…ugh, what do I do, I don’t have any job leads and they took everything from me. I’m already in debt…
+
+Sentinel
+You could get back at them….
+
+Artemis
+I do have a way 
+
+Sabu
+If you get information, release it to the media, give it to us, hide it in stage… 
+
+Artemis
+wish me luck. todays the day. going to get back at them.
+
+0V3RR1D3
+you’ve got it. ur doing the right thing.
+
+Sheperd
+I’ve moved our hub and migrated all of our data to a more secure system. Message me to get access
+
+Prankster
+woo! more secure!
+
+Sheperd
+Artemis are you there? You've gone out of contact... Reauthenticate by sending me the word "collective" after you sign it with your private key, gimme the hex dump of that. You might want to look into the documentation of openssl dgst.
+
+#token <thr4sh1ng_4vr>
+
